@@ -1,4 +1,3 @@
-# github-bio
 # Hello, I'm Amir Mollamohammadi Sadafi ! 👋
 
 I'm a Chief Technology Officer (CTO) at Sarinaoil.com . I love coding and contributing to open-source projects.
